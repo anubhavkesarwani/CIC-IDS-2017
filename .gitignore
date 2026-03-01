@@ -1,0 +1,5 @@
+.venv/
+shards/
+*py
+backup/
+*.csv
