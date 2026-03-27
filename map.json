@@ -1,0 +1,17 @@
+{
+    "BENIGN": "BENIGN",
+    "DDoS": "DDoS",
+    "DoS Hulk": "DoS",
+    "DoS GoldenEye": "DoS",
+    "DoS slowloris": "DoS",
+    "DoS Slowhttptest": "DoS",
+    "PortScan": "Port Scan",
+    "FTP-Patator": "Brute Force",
+    "SSH-Patator": "Brute Force",
+    "Bot": "Rare",
+    "Web Attack - Brute Force": "Rare",
+    "Web Attack - XSS": "Rare",
+    "Web Attack - Sql Injection": "Rare",
+    "Infiltration": "Rare",
+    "Heartbleed": "Rare"
+}
